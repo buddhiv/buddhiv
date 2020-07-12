@@ -1,4 +1,17 @@
-### Hi there 👋
+### Hi there!!
+My name is Buddhi Vikasitha. I am a graduate of the Department of Computer Science and Engineering at University of Moratuwa. 
+
+I am skilled in ...
+developing in these languages - Javascript, Typescript. PHP, Java, Python
+the following backend frameworks - Symfony, Flask
+the following frontend frameworks - React, Angular, Twig, JQuery
+mobile development with React Native, react-navigation
+using there frameworks in testing - PHPUnit, Jest, Selenium, Apache JMeter
+these design patterns - MVC, Decorator, Factory, Facade, Singleton
+the following miscellaneous technologies - MySQL, Firebase, Google Play Services, Docker, Material Design, Git, Subversion
+
+I am Also interested in Reading, Travelling, Gaming, Graphic Design and Football.
+
 
 <!--
 **buddhiv/buddhiv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
