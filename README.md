@@ -10,6 +10,6 @@ I am skilled in ...
 - these design patterns - **MVC, Decorator, Factory, Facade, Singleton**
 - the following miscellaneous technologies - **MySQL, Firebase, Google Play Services, Docker, Material Design, Git, Subversion**
 
-I am Also interested in Reading, Travelling, Gaming, Graphic Design and Football.
+I am also interested in Reading, Travelling, Gaming, Graphic Design and Football.
 
 ![Linkedin Badge](https://img.shields.io/badge/-Buddhi%20Vikasitha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/buddhiv) ![Medium Badge](https://img.shields.io/badge/-buddhiv-brightgreen?style=flat-square&logo=Medium&link=https://medium.com/@buddhiv) ![Gmail Badge](https://img.shields.io/badge/-92buddhiv@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)
