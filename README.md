@@ -5,7 +5,7 @@ I am skilled in ...
 - developing in these languages - **Javascript, Typescript. PHP, Java, Python**
 - the following backend frameworks - **Symfony, Flask**
 - the following frontend frameworks - **React, Angular, Twig, JQuery**
-- mobile development with - **React Native, react-navigation**
+- mobile development with - **React Native, react-navigation, redux**
 - using there frameworks in testing - **PHPUnit, Jest, Selenium, Apache JMeter**
 - these design patterns - **MVC, Decorator, Factory, Facade, Singleton**
 - the following miscellaneous technologies - **MySQL, Firebase, Google Play Services, Docker, Material Design, Git, Subversion**
