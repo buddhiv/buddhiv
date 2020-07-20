@@ -1,5 +1,5 @@
 ### Hi there!!
-My name is Buddhi Vikasitha. I am a graduate of the Department of Computer Science and Engineering at University of Moratuwa. I currently read for a master in Software Architecture.
+My name is Buddhi Vikasitha. I am a graduate of the Department of Computer Science and Engineering at University of Moratuwa, currently reading for a master in Software Architecture at the same department.
 
 I am skilled in ...
 - developing in these languages - **Javascript, Typescript. PHP, Java, Python**
